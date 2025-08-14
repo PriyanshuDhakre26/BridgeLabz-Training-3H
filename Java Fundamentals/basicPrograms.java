@@ -98,7 +98,7 @@ public class basicPrograms {
 
     // Main method to test
     public static void main(String[] args) {
-        BasicPrograms obj = new BasicPrograms();
+        basicPrograms obj = new basicPrograms();
         
         // Example calls
         obj.welcome();
